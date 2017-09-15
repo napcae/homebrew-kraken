@@ -1,8 +1,8 @@
 class K2cli < Formula
   desc "CLI for K2"
   homepage "https://github.com/samsung-cnct/k2cli"
-  url "https://github.com/samsung-cnct/k2cli/releases/download/1.0.9/k2cli_1.0.9_darwin_amd64.tar.gz"
-  sha256 "61a9342a84655d41f7530975a5411b4c895c8fa905402f6d8a7b56aeb6d8ae27"
+  url "https://github.com/samsung-cnct/k2cli/releases/download/1.1.0/k2cli_1.1.0_darwin_amd64.tar.gz"
+  sha256 "f64964c6326bc9bdcde4b1c17e37ad48ae4a606adc582c41b9d6fb0cba427573"
 
   depends_on "docker"
 
