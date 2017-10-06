@@ -1,2 +1,2 @@
-# homebrew-k2cli
-Brew tap for k2cli
+# homebrew-kraken
+Brew tap for kraken
