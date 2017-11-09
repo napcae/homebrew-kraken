@@ -2,8 +2,8 @@ class Kraken < Formula
   desc "Command line interface for kraken"
   homepage "https://github.com/samsung-cnct/kraken"
 
-  url "https://github.com/samsung-cnct/kraken/releases/download/1.2.2/kraken_1.2.2_darwin_amd64.tar.gz"
-  sha256 "7c5d6aec244384fbb9d43ee212ae950fca9ed6e20254159eed8a485cc0e7fe5c"
+  url "https://github.com/samsung-cnct/kraken/releases/download/1.2.3/kraken_1.2.3_darwin_amd64.tar.gz"
+  sha256 "81595b9973f3087889e220d48105da3dec717fd30a54466ddd0be798ed85355e"
 
   depends_on "docker"
 
